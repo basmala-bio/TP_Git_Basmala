@@ -1,0 +1,9 @@
+Rapport du TP Git & GitHub
+Boubakker Basmala
+Spécialité : Toxicologie fondamentale appliquée
+
+Résumé :
+Git est un outil essentiel qui permet de suivre l’évolution d’un projet, enregistrer les différentes versions et travailler efficacement en groupe. Dans ce TP, j’ai appris à créer un dépôt Git, faire des commits, configurer Git dans Google Colab et envoyer le travail vers GitHub.
+
+Projet personnel :
+Je souhaite créer un petit projet biotechnologique permettant d’enregistrer et de suivre des données d’expériences de laboratoire. Git me permettra de conserver l’historique complet des modifications, d’organiser le travail et de collaborer facilement.
